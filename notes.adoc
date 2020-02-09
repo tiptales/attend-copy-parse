@@ -3,7 +3,7 @@
 
 https://nanonets.com/blog/invoice-ocr/
 
-link::https://rossum.ai/[rossum] +
+url:https://rossum.ai/[rossum] +
 https://pypi.org/project/pdfparser-rossum/
 
 == projects
