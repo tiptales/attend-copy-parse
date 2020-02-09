@@ -9,8 +9,11 @@ https://pypi.org/project/pdfparser-rossum/
 
 == projects
 
+https://github.com/interviewBubble/Tabulo
+link:https://drive.google.com/drive/folders/1aUh9RfGn2XGgG2EtpKFh7P6PmcC3Q48z[has some pre trained models available]
+
+
 https://aws.amazon.com/textract/
 
-https://github.com/interviewBubble/Tabulo
 
 https://github.com/kermitt2/grobid
