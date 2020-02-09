@@ -1,5 +1,10 @@
 
+== solutions
+
+https://nanonets.com/blog/invoice-ocr/
+
 == projects
+
 https://aws.amazon.com/textract/
 
 https://github.com/interviewBubble/Tabulo
