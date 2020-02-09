@@ -1,7 +1,7 @@
 
 == solutions
 
-link:https://nanonets.com/ocr-api/[nanonet]
+link:https://nanonets.com/ocr-api/[nanonet] +
 https://nanonets.com/blog/invoice-ocr/
 
 link:https://rossum.ai/[rossum] +
