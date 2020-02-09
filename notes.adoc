@@ -1,9 +1,10 @@
 
 == solutions
 
+link:https://nanonets.com/ocr-api/[nanonet]
 https://nanonets.com/blog/invoice-ocr/
 
-url:https://rossum.ai/[rossum] +
+link:https://rossum.ai/[rossum] +
 https://pypi.org/project/pdfparser-rossum/
 
 == projects
