@@ -3,6 +3,9 @@
 
 https://nanonets.com/blog/invoice-ocr/
 
+link::https://rossum.ai/[rossum] +
+https://pypi.org/project/pdfparser-rossum/
+
 == projects
 
 https://aws.amazon.com/textract/
