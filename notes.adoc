@@ -14,6 +14,3 @@ link:https://drive.google.com/drive/folders/1aUh9RfGn2XGgG2EtpKFh7P6PmcC3Q48z[ha
 
 
 https://aws.amazon.com/textract/
-
-
-https://github.com/kermitt2/grobid
